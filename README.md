@@ -1,5 +1,3 @@
-![Screenshot (221)](https://github.com/user-attachments/assets/c7f7e110-53c9-40e1-9333-14837f82125d)
-
 # Healthcare Services Management App
 
 A simple React web application for managing and displaying healthcare services. Users can add, update, and delete services.
@@ -35,5 +33,3 @@ Make sure you have Node.js installed.
 3. Run the app:
    ```bash
    npm start
-
-
